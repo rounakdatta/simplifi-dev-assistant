@@ -7,3 +7,5 @@ requests==2.21.0
 Flask_Cors==3.0.7
 numpy==1.14.6
 beautifulsoup4==4.7.1
+sklearn_crfsuite
+spacy
