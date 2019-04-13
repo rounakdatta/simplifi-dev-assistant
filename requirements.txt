@@ -1,0 +1,9 @@
+Flask==0.10.1
+wikipedia==1.4.0
+wolframalpha==3.0.1
+rasa_nlu==0.14.3
+pymongo==3.7.2
+requests==2.21.0
+Flask_Cors==3.0.7
+numpy==1.14.6
+beautifulsoup4==4.7.1
